@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://daikincentre.com/sitemap.xml
